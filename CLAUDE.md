@@ -26,7 +26,7 @@ Tabs Global is a cross-border payments platform for businesses moving money into
   - `/miro-gtm-flowchart`: draw a GTM system as a Miro flowchart.
   - `/agent-browser`: drive a browser to fill forms and pull data.
   - `/crawl4ai`: crawl sites into Markdown or JSON, free and local.
-- `context/icp/`: `icp.md`, `personas.md`. Read before targeting, list building or scoring.
+- `context/icp/`: `icp.md`, `personas.md`, `signal-matrix.md`. Read before targeting, list building or scoring.
 - `context/positioning/`: `positioning.md`, `value-proposition.md`, `competitors.md`. Read before writing any pitch or copy.
 - `context/messaging/`: `messaging.md`, `facts.md` (approved claims, the copy gate). Read before drafting any outbound or content.
 - `context/brand-kit/`: `brand.md` (voice, key phrases). Read before producing any copy or design.
