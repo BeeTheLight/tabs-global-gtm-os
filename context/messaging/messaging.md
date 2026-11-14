@@ -1,6 +1,6 @@
 # Messaging: Tabs Global
 
-Built only from `context/docs/research/`. Tags: [company], [customers], [competitors], [market], [voice]. Persona angles are INFERRED (see [personas.md](../icp/personas.md)). Approved wording for prospect copy lives in [facts.md](facts.md); this file is the plan, that file is the gate.
+Reconciled 2026-11-13 with the refreshed `context/docs/research/`. Tags: [company], [customers], [competitors], [market], [voice]. Persona angles are INFERRED (see [personas.md](../icp/personas.md)). Approved wording for prospect copy lives in [facts.md](facts.md); this file is the plan, that file is the gate.
 
 ## Core message
 Move money into and out of Africa through one API, starting with one market and keeping the same integration as you add more. Built from: "Start with one market. Keep the same integration." and "Tabs is a cross-border payments platform that moves money into and out of Africa." [voice]
@@ -13,7 +13,9 @@ Move money into and out of Africa through one API, starting with one market and 
 | 3. FX you can plan around | Lock a quote before you commit | Guaranteed FX quotes with a 60-second validity window | [company] |
 | 4. Compliance in the flow | Screening and name checks happen before money moves | KYB, sanctions, PEP and adverse media screening; "Account names are verified on the rail before money moves."; funds held with licensed partners separately from operating funds | [company], [voice] |
 
-Pillars not supported yet: lowest price (no published fees), widest coverage (docs name only Nigeria; Kora claims 60+ countries), customer results (none found). [company], [competitors], [customers]
+Pillars not supported yet: lowest price (no published fees; WeWire publishes a fee table and Verto plans, so a price claim cannot be checked against them), widest coverage (docs name only Nigeria; Kora claims 60+ countries and Verto 190+ countries for receiving), fastest onboarding (Tabs' own onboarding time is Not found), customer results (none found; Verto and WeWire show named stories), certifications (no ISO 27001 claim; both incumbents make one). [company], [competitors], [customers]
+
+Pain language from the incumbents' customers (PROXY, for ideas only, never claimed as Tabs customers' words): "high forex rates and hidden fees", "capped daily transaction limits", slow documentation, supplier payments delayed, multi-day settlement. Use as hypotheses to test in conversation. [customers]
 
 ## Angle per persona (INFERRED)
 | Persona | Angle | Lead proof |
@@ -23,7 +25,8 @@ Pillars not supported yet: lowest price (no published fees), widest coverage (do
 | Influencer (compliance or treasury) | Checks and audit trail are built in, ahead of the 2026 CBN dates | Pillar 4; dates in [market] |
 
 ## Timely hooks (dated, from [market])
-- Naira settlement accounts for IMTOs from 1 May 2026; FX Manual 2026 from 1 June 2026; market share returns by 31 Dec 2026; data localisation from 1 Jan 2027. Use only with a verified link to the prospect's situation.
+- IMTO naira settlement circular (dated 24 March 2026), effective 1 May 2026; CBN FX Manual 4th edition, effective 1 June 2026; CBN payments framework circular (15 June 2026): market-share compliance by 31 Dec 2026 and data localisation by 1 Jan 2027; Nigeria Tax Acts in force 1 Jan 2026 (NGN5m penalty for awarding contracts to unregistered persons). Sources and caveats in [market]. Most dates come from news and law-firm summaries; circular texts were not read, so use a hook only with a verified link to the prospect's situation and never state thresholds as fact.
+- Competitor launches (Nomba Global Payout API 18 Mar 2026; Kora stablecoin rail 6 Oct 2026) are internal context, not prospect hooks: never name competitors in copy. [competitors]
 
 ## Words to use (Tabs' own, [voice])
 rail, local rail, one endpoint, one ledger, borderless, infrastructure, settle, instant, bank-grade, sandbox.
@@ -33,7 +36,8 @@ rail, local rail, one endpoint, one ledger, borderless, infrastructure, settle, 
 - Fee numbers, including 0.01%. [company]
 - "Licensed" language beyond "through our licensed bank and payment partners". [company]
 - Naming Hercle, Nomba, Currency Solutions, Paystack, Grey or Sterling as customers. [customers]
-- "Bank": Tabs says it is "not a bank". [company]
+- "Bank": Tabs says it is "not a bank". [company] Note the homepage line "Global banking infrastructure for African businesses." sits against this; keep "banking" out of prospect copy.
+- Naming Verto, WeWire or any competitor, or quoting their customers' complaints. [competitors], [customers]
 - Country lists beyond what is confirmed live. [company]
 
 ## Open questions

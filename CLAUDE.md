@@ -30,7 +30,7 @@ Tabs Global is a cross-border payments platform for businesses moving money into
 - `context/positioning/`: `positioning.md`, `value-proposition.md`, `competitors.md`. Read before writing any pitch or copy.
 - `context/messaging/`: `messaging.md`, `facts.md` (approved claims, the copy gate). Read before drafting any outbound or content.
 - `context/brand-kit/`: `brand.md` (voice, key phrases). Read before producing any copy or design.
-- `context/docs/research/`: raw research (company, customers, competitors, market, signals, voice) with URLs. Read for a fact and its citation. `context/docs/case-studies.md`: customer stories (none found yet).
+- `context/docs/research/`: raw research (company, customers, competitors, market, signals, voice) with URLs. Read for a fact and its citation. `context/docs/`: `case-studies.md` (none found yet), `gtm-system.md` (outbound system design).
 - `knowledge-base/playbooks/`: step-by-step plays for repeatable motions. Read before running a motion.
 - `knowledge-base/learnings/`: what worked, what failed, and why. Read before repeating or redesigning a motion.
 - `meetings/`: meeting notes and transcripts. Read for decisions, objections and customer language.
@@ -39,6 +39,7 @@ Tabs Global is a cross-border payments platform for businesses moving money into
 - `output/social/`: social posts and content drafts. Read to reuse or check past social work.
 - `output/data/`: exported lists, matrices and analysis outputs. Read when you need generated data.
 - `inspiration/`: ads and examples to learn from. Read before writing copy or designing a campaign, for patterns to borrow from.
+- `diagrams/`: flowchart specs and SVGs (Miro). Read before redrawing the GTM system.
 - `tools/`: scripts, integrations and tool configs. Read before building or running automations.
 - `weekly-priorities/`: one file per week (YYYY-Www.md) listing priorities. Read at the start of every session.
 - `work-log/`: one file per week with timestamped entries of every change. Read to see what changed and when.
