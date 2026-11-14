@@ -7,6 +7,25 @@ TO FILL IN after research: one line on what Tabs Global does, with a cited sourc
 ## How this folder works
 
 - `.claude/skills/`: reusable skills for repeatable GTM tasks. Read when running a known workflow.
+  - `/signal-matrix`: build ICP and signal matrices.
+  - `/campaign-strategy`: generate outbound campaign ideas with priorities.
+  - `/build-workflow-spec`: turn one play into a full workflow spec.
+  - `/campaign-copy`: write cold email and LinkedIn copy from an approved spec.
+  - `/campaign-qa`: QA a Clay table or email campaign against its spec.
+  - `/campaign-contract`: write the Clay build sheet for one campaign.
+  - `/prompt-builder`: build per-row prompts for Clay AI columns.
+  - `/clay-build-plan`: step-by-step Clay build guide plus flow diagram.
+  - `/design-clay-table-json`: write Clay table JSON from a contract.
+  - `/import-clay-table`: import a table JSON into Clay and test it.
+  - `/save-clay-schema`: save an approved Clay table to the local registry.
+  - `/build-clay`: build or repair a production Clay outbound workbook.
+  - `/export-tables`: export Clay tables to local CSV.
+  - `/calculate-costs`: report one Clay table's spend and credits.
+  - `/workspace-cost-audit`: report a Clay workspace's monthly spend.
+  - `/inbox-placement-test`: test cold email inbox placement per sender pool.
+  - `/miro-gtm-flowchart`: draw a GTM system as a Miro flowchart.
+  - `/agent-browser`: drive a browser to fill forms and pull data.
+  - `/crawl4ai`: crawl sites into Markdown or JSON, free and local.
 - `context/icp/`: ideal customer profile and segments. Read before targeting, list building or scoring.
 - `context/positioning/`: positioning, category and competitor framing. Read before writing any pitch or copy.
 - `context/messaging/`: value props, proof points, approved claims. Read before drafting any outbound or content.
@@ -34,4 +53,6 @@ TO FILL IN after research: one line on what Tabs Global does, with a cited sourc
 
 ## Tools
 
-None configured yet.
+- treg (CLI): paid data lookups. Check the price with `treg catalog get <id>` before every call, and report the cost after.
+- Miro (MCP): diagrams and GTM flowcharts.
+- Notion (MCP): where finished docs are published. GitHub stays the source of truth.
